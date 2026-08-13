@@ -1,0 +1,11 @@
+total_records: 8523
+unique_outlets: 10
+unique_product_categories: 16
+total_sales_inr: 18591125.41
+top_outlet_by_sales: OUT027
+top_category_by_sales: Fruits and Vegetables
+model_test_r2: 0.6048
+model_cv_r2_mean: 0.5891
+model_cv_r2_std: 0.0108
+model_mae_inr: 735.6
+top_sales_driver: Item_MRP
